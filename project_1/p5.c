@@ -82,7 +82,7 @@ int main()
         case 6:  
             // getting the square root of the number  
             printf (" You chose: Square Root");  
-            printf ("\n Enter First Number: ");  
+            printf ("\n Enter the Number: ");  
             scanf (" %d", &n1);  
               
             res = sqrt(n1); // use sqrt() function to find the Square Root   
